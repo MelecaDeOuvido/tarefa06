@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]){
+int main(){
 
     int ce, cc;
     float i, pc, vi, vt, p, p_kg;
